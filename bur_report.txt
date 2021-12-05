@@ -1,0 +1,16 @@
+Project: WNP
+Summary: Поле ввода данных заблокировано для внесения информации
+STR: 
+  1 Открыть главную страницу wnp-deutschland.de 
+  2 Прокрутить до конца страницы
+  3 Нажать на поле ввода
+ Actual Result: Данные не заносятся в поле ввода
+ Expected Result: Поле ввода данных работает корректно
+ Environment: Microsoft Edge
+ Bild: 95.0.1020.53
+ Priority: High
+ Severity : Major
+ Component: Главная страница
+ Reporter: Морозова
+ Assigned to: Сидоров
+ Attachments: 
